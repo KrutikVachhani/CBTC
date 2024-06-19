@@ -57,10 +57,10 @@
                                             <div class="text pl-md-5">
                                                 <span class="time">@dr["EventDateTime"]</span>
                                                 <h2><a asp-area="Event" asp-controller="Event" asp-action="EventByID" asp-route-~="@dr["EventID"]">@dr["EventName"]</a></h2>
-                                                <form asp-area="Event" asp-controller="Event" asp-action="EventByID" asp-route-~="@dr["EventID"]">
+                                                @* <form asp-area="Event" asp-controller="Event" asp-action="EventByID" asp-route-~="@dr["EventID"]">
                                                         <input type="hidden" name="EventID" value="@int.Parse(@dr["EventID"].ToString())">
                                                         <button type="submit">@dr["EventID"]</button>
-                                                </form>
+                                                </form> *@
                                                 <p>@dr["VenueName"]</p>
                                                 <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3>
                                             </div>
