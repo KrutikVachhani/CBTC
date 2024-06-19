@@ -1,0 +1,73 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@using System.Data;
+@using System.Data.SqlClient;
+@using EventPlanner360.Areas.Comment.Models;
+@model DataTable
+
+
+<div class="row justify-content-center">
+    <div class="col-12">
+        <h2 class="mb-2 page-title">Comment List</h2>
+        <div class="row my-4">
+            <div class="col-md-12">
+                <a asp-area="Comment" asp-controller="Comment" asp-action="CommentAdd" class="btn mb-2 btn-info">Add Comment</a>
+                <div class="card shadow">
+                    <div class="card-body">
+                        <!-- table -->
+                        <table class="table datatables" id="dataTable-1">
+                            <thead>
+                                <tr>
+                                    <th></th>
+                                    <th>#</th>
+                                    <th>User Name</th>
+                                    <th>Email</th>
+                                    <th>Phone Number</th>
+                                    <th>Message</th>
+                                    <th>Created</th>
+                                    <th>Modified</th>
+                                    <th colspan="2">Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (DataRow dr in Model.Rows)
+                                {
+                                    <tr>
+                                        <td>
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input">
+                                                <label class="custom-control-label"></label>
+                                            </div>
+                                        </td>
+                                        <td>@dr["CommentID"]</td>
+                                        <td>@dr["Name"]</td>
+                                        <td>@dr["Email"]</td>
+                                        <td>@dr["PhoneNumber"]</td>
+                                        <td>@dr["Message"]</td>
+                                        <td>@dr["Created"]</td>
+                                        <td>@dr["Modified"]</td>
+                                        <td>
+                                            <form method="post" asp-area="Comment" asp-controller="Comment" asp-action="CommentAdd">
+                                                <input type="hidden" name="CommentID" value="@int.Parse(@dr["CommentID"].ToString())">
+                                                <button type="submit" class="btn mb-2 btn-info">Edit</button>
+                                            </form>
+                                        </td>
+                                        <td>
+                                            <form method="post" asp-area="Comment" asp-controller="Comment" asp-action="CommentDelete">
+                                                <input type="hidden" name="CommentID" value="@int.Parse(@dr["CommentID"].ToString())">
+                                                <button type="submit" value="Delete" class="btn mb-2 btn-danger">Delete</button>
+                                            </form>
+                                        </td>
+                                    </tr>
+
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

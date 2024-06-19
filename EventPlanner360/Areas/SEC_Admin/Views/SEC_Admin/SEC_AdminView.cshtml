@@ -1,0 +1,187 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@using System.Data;
+@using System.Data.SqlClient;
+@using EventPlanner360.Areas.SEC_Admin;
+@using EventPlanner360.BAL;
+@model DataTable
+
+
+
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <div class="row">
+                <div class="col-md-6 col-xl-3 mb-4">
+                <a asp-area="Users" asp-controller="Users" asp-action="UserList">
+                    <div class="card shadow">
+                        <div class="card-body">
+                            <div class="row align-items-center">
+                                <div class="col">
+                                    @foreach (DataRow dr in Model.Rows)
+                                    {
+                                        <span class="h2 mb-0">@dr["CountUsers"]</span>
+                                    }
+                                    <p class="small text-muted mb-0">Total Users</p>
+                                </div>
+                                <div class="col-auto">
+                                    <span class="fe fe-32 fe-users text-muted mb-0"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                </div>
+
+                <div class="col-md-6 col-xl-3 mb-4">
+                    <a asp-area="Users" asp-controller="Users" asp-action="AdminList">
+                    <div class="card shadow">
+                        <div class="card-body">
+                            <div class="row align-items-center">
+                                <div class="col">
+                                    @foreach (DataRow dr in Model.Rows)
+                                    {
+                                        <span class="h2 mb-0">@dr["CountAdmins"]</span>
+                                    }
+                                    <p class="small text-muted mb-0">Total Admins</p>
+                                </div>
+                                <div class="col-auto">
+                                    <span class="fe fe-32 fe-users text-muted mb-0"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                </div>
+
+                <div class="col-md-6 col-xl-3 mb-4">
+                    <a asp-area="Users" asp-controller="Users" asp-action="ClientList">
+                    <div class="card shadow">
+                        <div class="card-body">
+                            <div class="row align-items-center">
+                                <div class="col">
+                                    @foreach (DataRow dr in Model.Rows)
+                                    {
+                                        <span class="h2 mb-0">@dr["CountClients"]</span>
+                                    }
+                                    <p class="small text-muted mb-0">Total Clients</p>
+                                </div>
+                                <div class="col-auto">
+                                    <span class="fe fe-32 fe-users text-muted mb-0"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                </div>
+
+                <div class="col-md-6 col-xl-3 mb-4">
+                    <a asp-area="Users" asp-controller="Users" asp-action="CustomerList">
+                    <div class="card shadow">
+                        <div class="card-body">
+                            <div class="row align-items-center">
+                                <div class="col">
+                                    @foreach (DataRow dr in Model.Rows)
+                                    {
+                                        <span class="h2 mb-0">@dr["CountCustomer"]</span>
+                                    }
+                                    <p class="small text-muted mb-0">Total Customers</p>
+                                </div>
+                                <div class="col-auto">
+                                    <span class="fe fe-32 fe-users text-muted mb-0"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 col-xl-3 mb-4">
+                    <a asp-area="Event" asp-controller="Event" asp-action="EventList">
+                    <div class="card shadow">
+                        <div class="card-body">
+                            <div class="row align-items-center">
+                                <div class="col">
+                                    @foreach (DataRow dr in Model.Rows)
+                                    {
+                                        <span class="h2 mb-0">@dr["CountEvent"]</span>
+                                    }
+                                    <p class="small text-muted mb-0">Total Events</p>
+                                </div>
+                                <div class="col-auto">
+                                    <span class="fe fe-32 fe-calendar text-muted mb-0"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                </div>
+
+                <div class="col-md-6 col-xl-3 mb-4">
+                    <a asp-area="Service" asp-controller="Service" asp-action="ServiceList">
+                    <div class="card shadow">
+                        <div class="card-body">
+                            <div class="row align-items-center">
+                                <div class="col">
+                                    @foreach (DataRow dr in Model.Rows)
+                                    {
+                                        <span class="h2 mb-0">@dr["CountService"]</span>
+                                    }
+                                    <p class="small text-muted mb-0">Total Services</p>
+                                </div>
+                                <div class="col-auto">
+                                    <span class="fe fe-32 fe-clipboard text-muted mb-0"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                </div>
+
+                <div class="col-md-6 col-xl-3 mb-4">
+                    <a asp-area="Venue" asp-controller="Venue" asp-action="VenueList">
+                    <div class="card shadow">
+                        <div class="card-body">
+                            <div class="row align-items-center">
+                                <div class="col">
+                                    @foreach (DataRow dr in Model.Rows)
+                                    {
+                                        <span class="h2 mb-0">@dr["CountVenues"]</span>
+                                    }
+                                    <p class="small text-muted mb-0">Total Venues</p>
+                                </div>
+                                <div class="col-auto">
+                                    <span class="fe fe-32 fe-map-pin text-muted mb-0"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                </div>
+
+                <div class="col-md-6 col-xl-3 mb-4">
+                    <a asp-area="Comment" asp-controller="Comment" asp-action="CommentList">
+                    <div class="card shadow">
+                        <div class="card-body">
+                            <div class="row align-items-center">
+                                <div class="col">
+                                    @foreach (DataRow dr in Model.Rows)
+                                    {
+                                        <span class="h2 mb-0">@dr["CountComment"]</span>
+                                    }
+                                    <p class="small text-muted mb-0">Total Comments</p>
+                                </div>
+                                <div class="col-auto">
+                                    <span class="fe fe-32 fe-align-left text-muted mb-0"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <h1>@CommonVariables.UserName()</h1>

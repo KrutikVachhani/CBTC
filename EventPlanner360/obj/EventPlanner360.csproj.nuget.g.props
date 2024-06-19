@@ -23,5 +23,7 @@
     <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\DELL\.nuget\packages\microsoft.entityframeworkcore.tools\6.0.27</PkgMicrosoft_EntityFrameworkCore_Tools>
     <PkgEnterpriseLibrary_Common_NetCore Condition=" '$(PkgEnterpriseLibrary_Common_NetCore)' == '' ">C:\Users\DELL\.nuget\packages\enterpriselibrary.common.netcore\6.3.0</PkgEnterpriseLibrary_Common_NetCore>
     <PkgEnterpriseLibrary_Data_NetCore Condition=" '$(PkgEnterpriseLibrary_Data_NetCore)' == '' ">C:\Users\DELL\.nuget\packages\enterpriselibrary.data.netcore\6.3.2</PkgEnterpriseLibrary_Data_NetCore>
+    <PkgEnterpriseLibrary_Common Condition=" '$(PkgEnterpriseLibrary_Common)' == '' ">C:\Users\DELL\.nuget\packages\enterpriselibrary.common\6.0.1304</PkgEnterpriseLibrary_Common>
+    <PkgEnterpriseLibrary_Data Condition=" '$(PkgEnterpriseLibrary_Data)' == '' ">C:\Users\DELL\.nuget\packages\enterpriselibrary.data\6.0.1304</PkgEnterpriseLibrary_Data>
   </PropertyGroup>
 </Project>

@@ -1,0 +1,124 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@using System.Data;
+@using System.Data.SqlClient;
+@using EventPlanner360.Areas.Venue.Models;
+@model DataTable
+
+
+<div class="row justify-content-center">
+    <div class="col-12">
+        <h2 class="mb-2 page-title">Venue List</h2>
+        <div class="row my-4">
+            <!-- Small table -->
+            <div class="col-md-12">
+                <form method="post" asp-area="Venue" asp-controller="Venue" asp-action="VenueFilter">
+                    <div class="card shadow mb-4">
+                        <div class="card-header">
+                            <h4 class="card-title">Filter</h4>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group mb-6">
+                                        <label for="simpleinput">Venue Name</label>
+                                        <input type="text" id="simpleinput" class="form-control" placeholder="Venue Name" name="VenueName">
+                                    </div>
+
+                                    <div class="form-group mb-6">
+                                        <label for="simpleinput">Capacity</label>
+                                        <input type="text" class="form-control" placeholder="Enter Capacity" name="Capacity">
+                                    </div>
+
+                                </div> <!-- /.col -->
+                                <div class="col-md-6">
+                                    <div class="form-group mb-6">
+                                        <label for="simpleinput">Location</label>
+                                        <input type="text" class="form-control" placeholder="Enter Location" name="Location">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6">
+                                    <div class="form-group mb-6">
+                                        <button value="Filter" type="submit" class="btn mb-2 btn-info">Filter</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> <!-- / .card -->
+                </form>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    @if (TempData["Message"] != null)
+                    {
+                        <div class="alert alert-success" role="alert">
+                            @TempData["Message"]
+                        </div>
+                    }
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="card shadow">
+                    <div class="card-body">
+                        <a asp-area="Venue" asp-controller="Venue" asp-action="VenueAdd" class="btn mb-2 btn-info">Add Venue</a>
+                        <!-- table -->
+                        <table class="table datatables" id="dataTable-1">
+                            <thead class="justify-content-center">
+                                <tr>
+                                    <th></th>
+                                    <th>#</th>
+                                    <th>VenueName</th>
+                                    <th>Location</th>
+                                    <th>Capacity</th>
+                                    <th>ContactPerson</th>
+                                    <th>ContactNumber</th>
+                                    <th>Created</th>
+                                    <th>Modified</th>
+                                    <th colspan="2">Action</th>
+                                </tr>
+                            </thead>
+                            <tbody id="sample_2">
+                                @foreach (DataRow dr in Model.Rows)
+                                {
+                                    <tr>
+                                        <td>
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input">
+                                                <label class="custom-control-label"></label>
+                                            </div>
+                                        </td>
+                                        <td>@dr["VenueID"]</td>
+                                        <td>@dr["VenueName"]</td>
+                                        <td>@dr["Location"]</td>
+                                        <td>@dr["Capacity"]</td>
+                                        <td>@dr["ContactPerson"]</td>
+                                        <td>@dr["ContactNumber"]</td>
+                                        <td>@dr["Created"]</td>
+                                        <td>@dr["Modified"]</td>
+                                        <td>
+                                            @* <a class="btn mb-2 btn-info" asp-area="Venue" asp-controller="Venue" asp-action="VenueAdd" asp-route-productid="@Convert.ToInt32(dr["VenueID"])">Edit</a> *@
+                                            <form method="post" asp-area="Venue" asp-controller="Venue" asp-action="VenueAdd">
+                                                <input type="hidden" name="VenueID" value="@int.Parse(@dr["VenueID"].ToString())">
+                                                <button type="submit" class="btn mb-2 btn-info">Edit</button>
+                                            </form>
+                                        </td>
+                                        <td>
+                                            <form method="post" asp-area="Venue" asp-controller="Venue" asp-action="VenueDelete">
+                                                <input type="hidden" name="VenueID" value="@int.Parse(@dr["VenueID"].ToString())">
+                                                <button type="submit" value="Delete" class="btn mb-2 btn-danger">Delete</button>
+                                            </form>
+                                        </td>
+                                    </tr>
+
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

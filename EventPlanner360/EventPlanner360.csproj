@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <PackageReference Include="ClosedXML" Version="0.102.2" />
+    <PackageReference Include="EnterpriseLibrary.Common" Version="6.0.1304" />
+    <PackageReference Include="EnterpriseLibrary.Data" Version="6.0.1304" />
     <PackageReference Include="EnterpriseLibrary.Data.NetCore" Version="6.3.2" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.27" />
@@ -16,6 +18,32 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\ClientEvent\Data\" />
+    <Folder Include="Areas\Comment\Data\" />
+    <Folder Include="Areas\Payment\Data\" />
+    <Folder Include="Areas\Schedule\Data\" />
+    <Folder Include="Areas\SEC_Admin\Data\" />
+    <Folder Include="Areas\SEC_Admin\Models\" />
+    <Folder Include="Areas\SEC_Client\Data\" />
+    <Folder Include="Areas\SEC_Client\Models\" />
+    <Folder Include="Areas\SEC_User\Data\" />
+    <Folder Include="Areas\Service\Data\" />
+    <Folder Include="Areas\Users\Data\" />
+    <Folder Include="Areas\Venue\Data\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Areas\ClientEvent\Views\_ViewImports.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\ClientEvent\Views\_ViewStart.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

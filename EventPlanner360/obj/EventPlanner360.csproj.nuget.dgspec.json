@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\KRUTIK\\Internship\\EventPlanner360\\EventPlanner360.csproj": {}
+    "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\EventPlanner360.csproj": {}
   },
   "projects": {
-    "H:\\KRUTIK\\Internship\\EventPlanner360\\EventPlanner360.csproj": {
+    "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\EventPlanner360.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\KRUTIK\\Internship\\EventPlanner360\\EventPlanner360.csproj",
+        "projectUniqueName": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\EventPlanner360.csproj",
         "projectName": "EventPlanner360",
-        "projectPath": "H:\\KRUTIK\\Internship\\EventPlanner360\\EventPlanner360.csproj",
+        "projectPath": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\EventPlanner360.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "H:\\KRUTIK\\Internship\\EventPlanner360\\obj\\",
+        "outputPath": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,14 @@
             "ClosedXML": {
               "target": "Package",
               "version": "[0.102.2, )"
+            },
+            "EnterpriseLibrary.Common": {
+              "target": "Package",
+              "version": "[6.0.1304, )"
+            },
+            "EnterpriseLibrary.Data": {
+              "target": "Package",
+              "version": "[6.0.1304, )"
             },
             "EnterpriseLibrary.Data.NetCore": {
               "target": "Package",

@@ -1,0 +1,47 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using System.Data;
+@using EventPlanner360.Areas.Payment.Models;
+@model PaymentModel
+
+@Html.HiddenFor(x=>x.PriceID)
+<section class="ftco-section">
+    <div class="container">
+        <div class="row justify-content-center mb-5 pb-3">
+            <div class="col-md-7 text-center heading-section ftco-animate">
+                <span class="subheading">Payment</span>
+                <h2 class="mb-4"><span>Payment</span>  Details</h2>
+            </div>
+        </div>
+        <div class="row block-9" style="padding-left:235px">
+            <div class="col-md-9">
+                <form method="post" asp-area="Payment" asp-controller="Payment" asp-action="PaymentSave" class="bg-light p-5 contact-form">
+                    <input type="hidden" class="form-control" asp-for="PriceID" value="@Model.PriceID" />
+                    <div class="form-group">
+                        <label>Card Number</label>
+                        <input type="text" class="form-control" asp-for="CardNumber" placeholder="Enter Card Number">
+                    </div>
+                    <div class="form-group">
+                        <label>Card Holder Name</label>
+                        <input type="text" class="form-control" asp-for="CardHolderName" placeholder="Enter Card Holder Name">
+                    </div>
+                    <div class="form-group">
+                        <label>Expiry Date</label>
+                        <input type="date" class="form-control" asp-for="CardExpiryDate" placeholder="Enter Expiry Date">
+                    </div>
+                    <div class="form-group">
+                        <label>CVV</label>
+                        <input type="text" class="form-control" asp-for="CardCVVNumber" placeholder="Enter CVV Number">
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn mb-2 btn-primary">Pay Now</button>
+                        <a asp-controller="Home" asp-action="BuyTicket" class="btn mb-2 btn-danger">Cancel</a>
+                    </div>
+                </form>
+
+            </div>
+
+        </div>
+    </div>
+</section>

@@ -1,0 +1,111 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@using EventPlanner360.Areas.Users.Models;
+@using EventPlanner360.BAL;
+@model UserModel
+
+<div class="row justify-content-center">
+    <div class="col-12 col-lg-10 col-xl-8">
+        <h2 class="h3 mb-4 page-title">Settings</h2>
+        <div class="my-4">
+            <ul class="nav nav-tabs mb-4" id="myTab" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Profile</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Security</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Notifications</a>
+                </li>
+            </ul>
+            
+                <div class="row mt-5 align-items-center">
+                    <div class="col-md-3 text-center mb-5">
+                        <div class="avatar avatar-xl">
+                            @* <img src="@Url.Content(CommonVariables.PhotoPath())" alt="..." class="avatar-img rounded-circle" style="width: 100px; height: 100px; object-fit:cover;  border-radius: 10px;" /> *@
+                        <img id="preview" alt="Preview Image" src="@Url.Content(CommonVariables.PhotoPath())" alt="Existing Image" class="img-fluid" style="width: 200px; height: 200px; object-fit:cover;  border-radius: 15px;" />
+                        <input type="file" name="File" accept=".png, .jpg, .jpeg" asp-for="File" onchange="previewImage(event)" id="uplordBtn" style="display:none" Required />
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="row align-items-center">
+                            <div class="col-md-7">
+                                <h4 class="mb-1">@CommonVariables.UserName()</h4>
+                                <p class="small mb-3"><span class="badge badge-dark">Gujarat, India</span></p>
+                            </div>
+                        </div>
+                        <div class="row mb-4">
+                            <div class="col-md-7">
+                                <p class="text-muted"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris blandit nisl ullamcorper, rutrum metus in, congue lectus. In hac habitasse platea dictumst. Cras urna quam, malesuada vitae risus at, pretium blandit sapien. </p>
+                            </div>
+                            <div class="col">
+                                <p class="small mb-0 text-muted">Nec Urna Suscipit Ltd</p>
+                                <p class="small mb-0 text-muted">P.O. Box 464, 5975 Eget Avenue</p>
+                                <p class="small mb-0 text-muted">(537) 315-1481</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr class="my-4">
+            <form asp-area="Users" asp-controller="Users" asp-action="UsersSave">
+                <input type="hidden" value="@CommonVariables.UserID()" asp-for="UserID" />
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="firstname">Firstname</label>
+                        <input type="text" class="form-control" value="@CommonVariables.FirstName()" asp-for="FirstName">
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="lastname">Lastname</label>
+                        <input type="text" class="form-control" value="@CommonVariables.LastName()" asp-for="LastName">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="inputEmail4">Email</label>
+                    <input type="text" class="form-control" value="@CommonVariables.EmailAddress()" asp-for="EmailAddress">
+                </div>
+                <div class="form-group">
+                    <label for="inputAddress5">UserName</label>
+                    <input type="text" id="simpleinput" class="form-control" value="@CommonVariables.UserName()" asp-for="UserName">
+                </div>
+                @* <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="inputCompany5">Password</label>
+                        <input type="password" class="form-control" value="@CommonVariables.Password()" asp-for="Password">
+                    </div>
+                </div> *@
+                <hr class="my-4">
+                <div class="row mb-4">
+                    
+                        <div class="col-md-6">
+                            @* <div class="form-group">
+                            <label for="inputPassword4">Old Password</label>
+                            <input type="password" class="form-control" id="inputPassword5">
+                            </div> *@
+                            <div class="form-group">
+                                <label for="inputCompany5">Password</label>
+                                <input type="password" class="form-control" value="@CommonVariables.Password()" asp-for="Password">
+                            </div>
+                            @* <div class="form-group">
+                                <label for="inputPassword6">Confirm Password</label>
+                                <input type="password" class="form-control" id="inputPassword6" asp-for="Password">
+                            </div> *@
+                        </div>
+                    
+                    <div class="col-md-6">
+                        <p class="mb-2">Password requirements</p>
+                        <p class="small text-muted mb-2"> To create a new password, you have to meet all of the following requirements: </p>
+                        <ul class="small text-muted pl-4 mb-0">
+                            <li> Minimum 8 character </li>
+                            <li>At least one special character</li>
+                            <li>At least one number</li>
+                            <li>Can’t be the same as a previous password </li>
+                        </ul>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary">Save Change</button>
+            </form>
+        </div> <!-- /.card-body -->
+    </div> <!-- /.col-12 -->
+</div> <!-- .row -->

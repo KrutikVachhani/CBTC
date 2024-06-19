@@ -1,0 +1,78 @@
+﻿@{
+    Layout = "~/Views/Shared/_ClientLayout.cshtml";
+}
+@using System.Data;
+@using System.Data.SqlClient;
+@using EventPlanner360.BAL;
+@using EventPlanner360.Areas.SEC_Admin;
+@model DataTable
+
+<h1>@CommonVariables.UserName()</h1>
+<div class="row justify-content-center">
+    <div class="col-12">
+        <div class="row">
+            <div class="col-md-6 col-xl-3 mb-4">
+                <a asp-area="ClientEvent" asp-controller="ClientEvent" asp-action="ClientEventList">
+                    <div class="card shadow">
+                        <div class="card-body">
+                            <div class="row align-items-center">
+                                <div class="col">
+                                    @foreach (DataRow dr in Model.Rows)
+                                    {
+                                        <span class="h2 mb-0">@dr["CountEvent"]</span>
+                                    }
+                                    <p class="small text-muted mb-0">Total Users</p>
+                                </div>
+                                <div class="col-auto">
+                                    <span class="fe fe-32 fe-users text-muted mb-0"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-md-6 col-xl-3 mb-4">
+                <a asp-area="Venue" asp-controller="Venue" asp-action="VenueList">
+                    <div class="card shadow">
+                        <div class="card-body">
+                            <div class="row align-items-center">
+                                <div class="col">
+                                    @foreach (DataRow dr in Model.Rows)
+                                    {
+                                        <span class="h2 mb-0">@dr["CountVenues"]</span>
+                                    }
+                                    <p class="small text-muted mb-0">Total Admins</p>
+                                </div>
+                                <div class="col-auto">
+                                    <span class="fe fe-32 fe-users text-muted mb-0"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-md-6 col-xl-3 mb-4">
+                <a asp-area="Service" asp-controller="Service" asp-action="ServiceList">
+                    <div class="card shadow">
+                        <div class="card-body">
+                            <div class="row align-items-center">
+                                <div class="col">
+                                    @foreach (DataRow dr in Model.Rows)
+                                    {
+                                        <span class="h2 mb-0">@dr["CountService"]</span>
+                                    }
+                                    <p class="small text-muted mb-0">Total Admins</p>
+                                </div>
+                                <div class="col-auto">
+                                    <span class="fe fe-32 fe-users text-muted mb-0"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

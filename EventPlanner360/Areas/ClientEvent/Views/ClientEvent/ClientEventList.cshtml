@@ -1,0 +1,123 @@
+﻿@{
+    Layout = "~/Views/Shared/_ClientLayout.cshtml";
+}
+
+@using System.Data;
+@using System.Data.SqlClient;
+@using EventPlanner360.Areas.ClientEvent.Models;
+@using EventPlanner360.Areas.Venue.Models;
+@using EventPlanner360.BAL;
+@model DataTable
+
+<div class="row justify-content-center">
+    <div class="col-12">
+        <h2 class="mb-2 page-title">Event List</h2>
+        <div class="row my-4">
+            <!-- Small table --><div class="col-md-12">
+                <form method="post" asp-area="ClientEvent" asp-controller="ClientEvent" asp-action="EventFilter">
+                    <div class="card shadow mb-4">
+                        <div class="card-header">
+                            <h4 class="card-title">Filter</h4>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group mb-6">
+                                        <label for="simpleinput">Event Name</label>
+                                        <input type="text" id="simpleinput" class="form-control" placeholder="Venue Name" name="CEventName">
+                                    </div>
+                                    <label for="example-select">Select Venue</label>
+                                    <select class="form-control" id="VenueID" name="VenueID">
+                                        <option value="">- - -</option>
+                                        @foreach (VenueModel VenueName in ViewBag.VenueList)
+                                        {
+                                            <option value="@VenueName.VenueID">@VenueName.VenueName</option>
+                                        }
+                                    </select>
+
+
+                                </div> <!-- /.col -->
+                                <div class="col-md-6">
+                                    <div class="form-group mb-6">
+                                        <label for="simpleinput">Event Date</label>
+                                        <input type="text" id="simpleinput" class="form-control" placeholder="Event Date" name="CEventDateTime">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group mb-3">
+
+                                        <button value="Filter" type="submit" class="btn mb-2 btn-info">Search</button>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> <!-- / .card -->
+                </form>
+            </div>
+
+
+            <div class="col-md-12">
+                <div class="card shadow">
+                    <div class="card-body">
+                        <form asp-area="ClientEvent" asp-controller="ClientEvent" asp-action="EventAdd">
+                            <input type="hidden" value="@CommonVariables.ClientID()" />
+                            <button class="btn mb-2 btn-info">Add Event</button>
+                        </form>
+                        <!-- table -->
+                        <table class="table datatables">
+                            <thead>
+                                <tr>
+                                    <th></th>
+                                    <th>#</th>
+                                    <th>EventName</th>
+                                    <th>EventDateTime</th>
+                                    <th>IsPrivate</th>
+                                    <th>Venue Name</th>
+                                    <th>Services</th>
+                                    <th>Created</th>
+                                    <th>Modified</th>
+                                    <th colspan="2">Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (DataRow dr in Model.Rows)
+                                {
+                                    <tr>
+                                        <td>
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input">
+                                                <label class="custom-control-label"></label>
+                                            </div>
+                                        </td>
+                                        <td>@dr["ClientEventID"]</td>
+                                        <td>@dr["CEventName"]</td>
+                                        <td>@dr["CEventDateTime"]</td>
+                                        <td>@dr["CIsPrivate"]</td>
+                                        <td>@dr["VenueName"]</td>
+                                        <td>@dr["SelectedService"]</td>
+                                        <td>@dr["Created"]</td>
+                                        <td>@dr["Modified"]</td>
+                                        <td>
+                                            <form method="post" asp-area="ClientEvent" asp-controller="ClientEvent" asp-action="EventAdd">
+                                                <input type="hidden" name="ClientEventID" value="@int.Parse(@dr["ClientEventID"].ToString())">
+                                                <button type="submit" class="btn mb-2 btn-info">Edit</button>
+                                            </form>
+                                        </td>
+                                        <td>
+                                            <form method="post" asp-area="ClientEvent" asp-controller="ClientEvent" asp-action="EventDelete">
+                                                <input type="hidden" name="ClientEventID" value="@int.Parse(@dr["ClientEventID"].ToString())">
+                                                <button type="submit" value="Delete" class="btn mb-2 btn-danger">Delete</button>
+                                            </form>
+                                        </td>
+                                    </tr>
+
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

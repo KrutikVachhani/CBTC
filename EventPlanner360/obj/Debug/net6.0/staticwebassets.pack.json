@@ -1,0 +1,1269 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EventPlanner360.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EventPlanner360.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\Upload\\Mypic.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Mypic.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\Upload\\city.png",
+      "PackagePath": "staticwebassets\\Upload\\city.png"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\Upload\\selfie.png",
+      "PackagePath": "staticwebassets\\Upload\\selfie.png"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\assets\\avatars\\Mypic.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\avatars\\Mypic.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\assets\\avatars\\face-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\avatars\\face-1.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\assets\\avatars\\face-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\avatars\\face-2.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\assets\\avatars\\face-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\avatars\\face-3.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\assets\\avatars\\face-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\avatars\\face-4.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\assets\\avatars\\face-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\avatars\\face-5.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\assets\\avatars\\face-6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\avatars\\face-6.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\assets\\avatars\\face-7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\avatars\\face-7.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\assets\\avatars\\face-8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\avatars\\face-8.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\assets\\images\\qrcode.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\qrcode.svg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\assets\\products\\p1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\products\\p1.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\assets\\products\\p2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\products\\p2.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\assets\\products\\p3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\products\\p3.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\assets\\products\\p4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\products\\p4.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\apexcharts.css",
+      "PackagePath": "staticwebassets\\admin\\css\\apexcharts.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\app-dark.css",
+      "PackagePath": "staticwebassets\\admin\\css\\app-dark.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\app-light.css",
+      "PackagePath": "staticwebassets\\admin\\css\\app-light.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\app-rtl.css",
+      "PackagePath": "staticwebassets\\admin\\css\\app-rtl.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\admin\\css\\daterangepicker.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\dropzone.css",
+      "PackagePath": "staticwebassets\\admin\\css\\dropzone.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\dropzone.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\feather.css",
+      "PackagePath": "staticwebassets\\admin\\css\\feather.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\admin\\css\\fullcalendar.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\admin\\css\\jquery.steps.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\admin\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\quill.snow.css",
+      "PackagePath": "staticwebassets\\admin\\css\\quill.snow.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\select2-bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\css\\select2-bootstrap4.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\select2.css",
+      "PackagePath": "staticwebassets\\admin\\css\\select2.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\admin\\css\\simplebar.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\css\\uppy.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\uppy.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\data\\contacts.json",
+      "PackagePath": "staticwebassets\\admin\\data\\contacts.json"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\data\\eu.topo.json",
+      "PackagePath": "staticwebassets\\admin\\data\\eu.topo.json"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\fonts\\feather.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\feather.eot"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\fonts\\feather.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\feather.svg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\fonts\\feather.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\feather.ttf"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\fonts\\feather.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\feather.woff"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\apexcharts.custom.js",
+      "PackagePath": "staticwebassets\\admin\\js\\apexcharts.custom.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\apexcharts.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\apps.js",
+      "PackagePath": "staticwebassets\\admin\\js\\apps.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\config.js",
+      "PackagePath": "staticwebassets\\admin\\js\\config.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\d3.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\d3.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\datamaps-zoomto.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datamaps-zoomto.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\datamaps.all.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datamaps.all.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\datamaps.custom.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datamaps.custom.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\admin\\js\\daterangepicker.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dropzone.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\fullcalendar.custom.js",
+      "PackagePath": "staticwebassets\\admin\\js\\fullcalendar.custom.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\admin\\js\\fullcalendar.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\gauge.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\gauge.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\jquery.mask.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.mask.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.steps.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\jquery.stickOnScroll.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.stickOnScroll.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\jquery.timepicker.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.timepicker.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\moment.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\popper.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\quill.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\quill.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\script.js",
+      "PackagePath": "staticwebassets\\admin\\js\\script.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\select2.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\tinycolor-min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tinycolor-min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\topojson.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\topojson.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\admin\\js\\uppy.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\uppy.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\event\\css\\.DS_Store"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\event\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\animate.css",
+      "PackagePath": "staticwebassets\\event\\css\\animate.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\aos.css",
+      "PackagePath": "staticwebassets\\event\\css\\aos.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\event\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\event\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\event\\css\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\event\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\event\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\event\\css\\css\\.DS_Store"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\event\\css\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\css\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\event\\css\\css\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\event\\css\\flaticon.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\event\\css\\icomoon.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\event\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\event\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\event\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\event\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\event\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\event\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\css\\style.css",
+      "PackagePath": "staticwebassets\\event\\css\\style.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\event\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\flaticon\\.DS_Store",
+      "PackagePath": "staticwebassets\\event\\fonts\\flaticon\\.DS_Store"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\event\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\flaticon\\font\\.DS_Store",
+      "PackagePath": "staticwebassets\\event\\fonts\\flaticon\\font\\.DS_Store"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\event\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\event\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\event\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\event\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\event\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\event\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\event\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\event\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\event\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\event\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\event\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\event\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\ionicons\\css\\_ionicons.scss",
+      "PackagePath": "staticwebassets\\event\\fonts\\ionicons\\css\\_ionicons.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\event\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\ionicons\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\event\\fonts\\ionicons\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\event\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\event\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\event\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\event\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\ionicons\\fonts\\ionicons.woff2",
+      "PackagePath": "staticwebassets\\event\\fonts\\ionicons\\fonts\\ionicons.woff2"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\open-iconic\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\event\\fonts\\open-iconic\\open-iconic.eot"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\open-iconic\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\event\\fonts\\open-iconic\\open-iconic.otf"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\open-iconic\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\event\\fonts\\open-iconic\\open-iconic.svg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\open-iconic\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\event\\fonts\\open-iconic\\open-iconic.ttf"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\fonts\\open-iconic\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\event\\fonts\\open-iconic\\open-iconic.woff"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\event\\images\\.DS_Store"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\about.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\bg_2.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\image_1.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\image_1.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\image_2.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\image_2.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\image_3.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\image_3.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\image_4.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\image_4.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\image_5.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\image_5.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\image_6.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\image_6.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\loc.png",
+      "PackagePath": "staticwebassets\\event\\images\\loc.png"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\person_1.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\person_2.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\person_3.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\person_4.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\speaker-1.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\speaker-1.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\speaker-2.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\speaker-2.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\speaker-3.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\speaker-3.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\speaker-4.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\speaker-4.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\speaker-5.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\speaker-5.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\images\\speaker-6.jpg",
+      "PackagePath": "staticwebassets\\event\\images\\speaker-6.jpg"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\event\\js\\.DS_Store"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\aos.js",
+      "PackagePath": "staticwebassets\\event\\js\\aos.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\event\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\event\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\google-map.js",
+      "PackagePath": "staticwebassets\\event\\js\\google-map.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\event\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\event\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\event\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\event\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\event\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\event\\js\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\event\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\event\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\main.js",
+      "PackagePath": "staticwebassets\\event\\js\\main.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\event\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\event\\js\\popper.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\range.js",
+      "PackagePath": "staticwebassets\\event\\js\\range.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\js\\scrollax.min.js",
+      "PackagePath": "staticwebassets\\event\\js\\scrollax.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\event\\scss\\.DS_Store"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\event\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\event\\scss\\style.scss"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\KRUTIK\\Internship\\CBTC\\EventPlanner360\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EventPlanner360.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EventPlanner360.props",
+      "PackagePath": "build\\EventPlanner360.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EventPlanner360.props",
+      "PackagePath": "buildMultiTargeting\\EventPlanner360.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EventPlanner360.props",
+      "PackagePath": "buildTransitive\\EventPlanner360.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
